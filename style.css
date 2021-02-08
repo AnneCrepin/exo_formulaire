@@ -1,0 +1,35 @@
+body {
+    font-family: "Poppins", "Arial", "Helvetica Neue", sans-serif;
+    background-image: linear-gradient(to right, #fc2c77, #da3383, #b53b87, #8f4084, #6c4079);
+}
+
+form{
+    background-color: whitesmoke;
+}
+label{
+    position: relative;
+}
+span{
+    position: absolute;
+    left: -0.5em;
+    color: red;
+}
+.obligation{
+    color: red;
+    font-size: xx-small;
+    margin-bottom: 0.2rem;
+}
+
+em{
+    background-color: lightpink;
+    padding: 0.3rem;
+    border-radius: 0.25rem;
+    overflow-wrap: break-word;
+}
+.bloc{
+    border: 2px solid lightgray;
+    border-radius: 0.25rem;
+    margin-bottom: 0.5rem;
+    padding: 0.5rem  0.5rem 0 0.5rem ;
+
+}
